@@ -11,7 +11,6 @@ Hi there, I'm <b>Michał</b>, a 18 years old student 🇵🇱.<br>Who tries to c
     <img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white">
     &nbsp;&nbsp;
     <a href="https://github.com/mszan?tab=repositories&q=react" target="_blank"><img alt="ReactJS" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=1f1f1f"></a>
-    <a href="https://github.com/mszan?tab=repositories&q=django" target="_blank"><img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white"></a>
 </p>
 <p>
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
