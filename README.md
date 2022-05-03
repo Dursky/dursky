@@ -28,5 +28,5 @@ Hi there, I'm <b>Michał</b>, a 20 years old student 🇵🇱.<br>Who tries to c
     <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white">
      &nbsp;&nbsp;
     <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=Nginx&logoColor=white">
-    <img alt="Typescript" class="typescript" height="256" src="https://cdn.svgporn.com/logos/typescript-icon.svg" >
+    <img alt="Typescript" class="typescript" height="64" src="https://cdn.svgporn.com/logos/typescript-icon.svg" >
 
