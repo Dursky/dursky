@@ -1,6 +1,6 @@
 
 <p>
-Hi there, I'm <b>Michał</b>, a 18 years old student 🇵🇱.<br>Who tries to create unusual projects 🎇.
+Hi there, I'm <b>Michał</b>, a 20 years old student 🇵🇱.<br>Who tries to create unusual projects 🎇.
 </p>
 <p>
     <a href="https://github.com/mszan?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript ES6" src="https://img.shields.io/badge/-JS%20ES6-F7DF1E?style=flat-square&logo=JavaScript&logoColor=1f1f1f"></a>
