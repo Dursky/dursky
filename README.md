@@ -33,21 +33,18 @@ Hi there, I'm <b>Michał</b>, a 20 years Software and Hardware Engineer from Pol
     <img alt="Gitlab" class="gitlab" height="32" src="https://cdn.svgporn.com/logos/gitlab.svg" >
     <img alt="Git" class="git" height="32" src="https://cdn.svgporn.com/logos/git-icon.svg" >
     <img alt="Github" class="github" height="32" src="https://cdn.svgporn.com/logos/github-icon.svg" >
-    <img alt="C++" class="c-plusplus" height="196" src="https://cdn.svgporn.com/logos/c-plusplus.svg" >
-    <img alt="C Sharp (C#) " class="c-sharp" height="196" src="https://cdn.svgporn.com/logos/c-sharp.svg" >
-    <img alt="Google Cloud" class="google-cloud" height="196" src="https://cdn.svgporn.com/logos/google-cloud.svg" >
-    <img alt="AWS" class="aws" height="196" src="https://cdn.svgporn.com/logos/aws.svg" >
-    <img alt="Cypress" class="cypress" height="196" src="https://cdn.svgporn.com/logos/cypress.svg">
-    <img alt="Mocha" class="mocha" height="196" src="https://cdn.svgporn.com/logos/mocha.svg">
-    <img alt="Testing Library" class="testing-library" height="196" src="https://cdn.svgporn.com/logos/testing-library.svg" >
-    <img alt="Jenkins" class="jenkins" height="196" src="https://cdn.svgporn.com/logos/jenkins.svg" >
-    <img alt="Datadog" class="datadog" height="196" src="https://cdn.svgporn.com/logos/datadog.svg" >
-    <img alt="Sentry" class="sentry" height="196" src="https://cdn.svgporn.com/logos/sentry-icon.svg" >
-    <img alt="CSS3" class="css-3" height="196" src="https://cdn.svgporn.com/logos/css-3.svg" >
-    <img alt="HTML5" class="html-5" height="196" src="https://cdn.svgporn.com/logos/html-5.svg" >
-    
-    
+    <img alt="C++" class="c-plusplus"height="32" src="https://cdn.svgporn.com/logos/c-plusplus.svg" >
+    <img alt="C Sharp (C#) " class="c-sharp"height="32" src="https://cdn.svgporn.com/logos/c-sharp.svg" >
+    <img alt="Google Cloud" class="google-cloud"height="32" src="https://cdn.svgporn.com/logos/google-cloud.svg" >
+    <img alt="AWS" class="aws"height="32" src="https://cdn.svgporn.com/logos/aws.svg" >
+    <img alt="Cypress" class="cypress"height="32" src="https://cdn.svgporn.com/logos/cypress.svg">
+    <img alt="Mocha" class="mocha"height="32" src="https://cdn.svgporn.com/logos/mocha.svg">
+    <img alt="Testing Library" class="testing-library"height="32" src="https://cdn.svgporn.com/logos/testing-library.svg" >
+    <img alt="Jenkins" class="jenkins"height="32" src="https://cdn.svgporn.com/logos/jenkins.svg" >
+    <img alt="Datadog" class="datadog"height="32" src="https://cdn.svgporn.com/logos/datadog.svg" >
+    <img alt="Sentry" class="sentry"height="32" src="https://cdn.svgporn.com/logos/sentry-icon.svg" >
+    <img alt="CSS3" class="css-3"height="32" src="https://cdn.svgporn.com/logos/css-3.svg" >
+    <img alt="HTML5" class="html-5"height="32" src="https://cdn.svgporn.com/logos/html-5.svg" >
     <img alt="Typescript" class="typescript" height="32" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
-    
 </div>
 
