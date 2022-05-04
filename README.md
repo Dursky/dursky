@@ -1,32 +1,51 @@
 
 <p>
-Hi there, I'm <b>Michał</b>, a 20 years old student 🇵🇱.<br>Who tries to create unusual projects 🎇.
+Hi there, I'm <b>Michał</b>, a 20 years Software and Hardware Engineer from Poland🇵🇱.<br>
 </p>
-<p>
-    <a href="https://github.com/mszan?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript ES6" src="https://img.shields.io/badge/-JS%20ES6-F7DF1E?style=flat-square&logo=JavaScript&logoColor=1f1f1f"></a>
-    <a href="https://github.com/mszan?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/mszan?tab=repositories&language=html" target="_blank"><img alt="HTML 5" src="https://img.shields.io/badge/-HTML%205-E34F26?style=flat-square&logo=Html5&logoColor=white"></a>
-    <img alt="CSS 3" src="https://img.shields.io/badge/-CSS%203-1572B6?style=flat-square&logo=css3&logoColor=white">
-    <img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white">
-    &nbsp;&nbsp;
-    <a href="https://github.com/mszan?tab=repositories&q=react" target="_blank"><img alt="ReactJS" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=1f1f1f"></a>
-</p>
-<p>
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white">
-    <img alt="MongoDB" src="https://github.com/mongodb-js/leaf/blob/master/dist/mongodb-leaf_16x16.png">
-    &nbsp;&nbsp;
-    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white">
-     &nbsp;&nbsp;
-    <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white">
-    <img alt="Asana" src="https://img.shields.io/badge/-Asana-273347?style=flat-square&logo=Asana&logoColor=white">
-</p>
-<p>
-    <img alt="MacOS" src="https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=Apple&logoColor=white">
-    <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
-    <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white">
-     &nbsp;&nbsp;
-    <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=Nginx&logoColor=white">
-    <img alt="Typescript" class="typescript" height="32" src="https://cdn.svgporn.com/logos/typescript-icon.svg" >
+
+<img alt="Python"  height="32" src="https://cdn.svgporn.com/logos/python.svg">
+<img alt="Javascript (JS)"  height="32" src="https://cdn.svgporn.com/logos/javascript.svg">
+<img alt="jQuery"  height="32" src="https://cdn.svgporn.com/logos/jquery.svg">
+<img alt="Linux"  height="32" src="https://cdn.svgporn.com/logos/linux-tux.svg">
+<img alt="PHP" height="32" src="https://cdn.svgporn.com/logos/php.svg">
+<img alt="Symfony" height="32" src="https://cdn.svgporn.com/logos/symfony.svg">
+<img alt="ts-node" class="tsnode" height="32" src="https://cdn.svgporn.com/logos/tsnode.svg" >
+<img alt="Node.js" class="nodejs" height="32" src="https://cdn.svgporn.com/logos/nodejs.svg" >
+<img alt="Redis" class="redis" height="32" src="https://cdn.svgporn.com/logos/redis.svg">
+<img alt="MySQL" class="mysql" height="32" src="https://cdn.svgporn.com/logos/mysql.svg" >
+<img alt="PostgreSQL" class="postgresql" height="32" src="https://cdn.svgporn.com/logos/postgresql.svg" >
+<img alt="SQLite" class="sqlite" height="32" src="https://cdn.svgporn.com/logos/sqlite.svg" >
+<img alt="Cassandra" class="cassandra" height="32" src="https://cdn.svgporn.com/logos/cassandra.svg" >
+<img alt="Wordpress" class="wordpress" height="32" src="https://cdn.svgporn.com/logos/wordpress-icon.svg" >
+<img alt="Vue.js" class="vue" height="32" src="https://cdn.svgporn.com/logos/vue.svg">
+<img alt="Material UI" class="material-ui" height="32" src="https://cdn.svgporn.com/logos/material-ui.svg" >
+<img alt="React" class="react" height="32" src="https://cdn.svgporn.com/logos/react.svg" >
+<img alt="Preact" class="preact" height="32" src="https://cdn.svgporn.com/logos/preact.svg" >
+<img alt="redux-saga" class="redux-saga" height="32" src="https://cdn.svgporn.com/logos/redux-saga.svg">
+<img alt="Redux" class="redux" height="32" src="https://cdn.svgporn.com/logos/redux.svg" >
+<img alt="Next.js" class="nextjs" height="32" src="https://cdn.svgporn.com/logos/nextjs-icon.svg" >
+<img alt="Bootstrap" class="bootstrap" height="32" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+<img alt="Sass" class="sass" height="32" src="https://cdn.svgporn.com/logos/sass.svg" >
+<img alt="Less" class="less" height="32" src="https://cdn.svgporn.com/logos/less.svg">
+<img alt="Tailwind CSS" class="tailwindcss" height="32" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" >
+<img alt="NPM" class="npm" height="32" src="https://cdn.svgporn.com/logos/npm-icon.svg" >
+<img alt="Yarn" class="yarn" height="32" src="https://cdn.svgporn.com/logos/yarn.svg" >
+<img alt="Gitlab" class="gitlab" height="32" src="https://cdn.svgporn.com/logos/gitlab.svg" >
+<img alt="Git" class="git" height="32" src="https://cdn.svgporn.com/logos/git-icon.svg" >
+<img alt="Github" class="github" height="32" src="https://cdn.svgporn.com/logos/github-icon.svg" >
+<img alt="C++" class="c-plusplus" height="196" src="https://cdn.svgporn.com/logos/c-plusplus.svg" >
+<img alt="C Sharp (C#) " class="c-sharp" height="196" src="https://cdn.svgporn.com/logos/c-sharp.svg" >
+<img alt="Google Cloud" class="google-cloud" height="196" src="https://cdn.svgporn.com/logos/google-cloud.svg" >
+<img alt="AWS" class="aws" height="196" src="https://cdn.svgporn.com/logos/aws.svg" >
+<img alt="Cypress" class="cypress" height="196" src="https://cdn.svgporn.com/logos/cypress.svg">
+<img alt="Mocha" class="mocha" height="196" src="https://cdn.svgporn.com/logos/mocha.svg">
+<img alt="Testing Library" class="testing-library" height="196" src="https://cdn.svgporn.com/logos/testing-library.svg" >
+<img alt="Jenkins" class="jenkins" height="196" src="https://cdn.svgporn.com/logos/jenkins.svg" >
+<img alt="Datadog" class="datadog" height="196" src="https://cdn.svgporn.com/logos/datadog.svg" >
+<img alt="Sentry" class="sentry" height="196" src="https://cdn.svgporn.com/logos/sentry-icon.svg" >
+<img alt="CSS3" class="css-3" height="196" src="https://cdn.svgporn.com/logos/css-3.svg" >
+<img alt="HTML5" class="html-5" height="196" src="https://cdn.svgporn.com/logos/html-5.svg" >
+
+
+<img alt="Typescript" class="typescript" height="32" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
 
