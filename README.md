@@ -52,7 +52,6 @@ Hi there, I'm <b>Michał</b>, a 20 years Software and Hardware Engineer from Pol
     <img alt="Express" class="express" height="48" src="https://cdn.svgporn.com/logos/express.svg">
     <img alt="Socket.io" class="socketio" height="48" src="https://cdn.svgporn.com/logos/socket.io.svg">
     <img alt="Markdown" class="markdown" height="48" src="https://cdn.svgporn.com/logos/markdown.svg">
-
     <img alt="Raspberry" class="raspberry" height="48" src="https://cdn.svgporn.com/logos/raspberry-pi.svg">
     <img alt="Arduino" class="arduino" height="48" src="https://cdn.svgporn.com/logos/arduino.svg">
     <img alt="IOS" class="ios" height="48" src="https://cdn.svgporn.com/logos/ios.svg">
