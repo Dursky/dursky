@@ -46,5 +46,19 @@ Hi there, I'm <b>Michał</b>, a 20 years Software and Hardware Engineer from Pol
     <img alt="CSS3" class="css-3"height="48" src="https://cdn.svgporn.com/logos/css-3.svg" >
     <img alt="HTML5" class="html-5"height="48" src="https://cdn.svgporn.com/logos/html-5.svg" >
     <img alt="Typescript" class="typescript" height="48" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
+    <img alt="Kafka" class="kafka" height="48" src="https://cdn.svgporn.com/logos/kafka.svg">
+    <img alt="V8" class="v8" height="48" src="https://cdn.svgporn.com/logos/v8.svg">
+    <img alt="Electron" class="electron" height="48" src="https://cdn.svgporn.com/logos/electron.svg">
+    <img alt="Express" class="express" height="48" src="https://cdn.svgporn.com/logos/express.svg">
+    <img alt="Socket.io" class="socketio" height="48" src="https://cdn.svgporn.com/logos/socket.io.svg">
+    <img alt="Markdown" class="markdown" height="48" src="https://cdn.svgporn.com/logos/markdown.svg">
+
+    <img alt="Raspberry" class="raspberry" height="48" src="https://cdn.svgporn.com/logos/raspberry-pi.svg">
+    <img alt="Arduino" class="arduino" height="48" src="https://cdn.svgporn.com/logos/arduino.svg">
+    <img alt="IOS" class="ios" height="48" src="https://cdn.svgporn.com/logos/ios.svg">
+    <img alt="Ubuntu" class="ubuntu" height="48" src="https://cdn.svgporn.com/logos/ubuntu.svg">
+    <img alt="macOs" class="macos" height="48" src="https://cdn.svgporn.com/logos/macOS.svg">
+
+    
 </div>
 
