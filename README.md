@@ -1,8 +1,8 @@
 
 <p>
-Hi there, I'm <b>Michał</b>, a 20 years Software and Hardware Engineer from Poland🇵🇱.<br>
+Hi there, I'm <b>Michał</b>, a 22 years Software and Hardware Engineer from Poland🇵🇱.<br>
 </p>
-<div style="display: flex; justify-content:evenly;">
+<div style="display: flex; justify-content:evenly; background-color: white;">
     <img alt="Python"  height="48" src="https://cdn.svgporn.com/logos/python.svg">
     <img alt="Javascript (JS)"  height="48" src="https://cdn.svgporn.com/logos/javascript.svg">
     <img alt="jQuery"  height="48" src="https://cdn.svgporn.com/logos/jquery.svg">
